@@ -52,7 +52,7 @@ After you're finished please remove all the comments and instructions!
 
 # 📖 [Hello Microverse Project] <a name="about-project"></a>
 
-**[Hello Microverse Project]** is a Hello World git hub repository without any complex coding set up with proper linter of  HTML and CSS which also includes new branch that is created in accordance with the GitHub flow rules in order to make code concise,correct and standardised.
+**[Hello Microverse Project]** is a Hello Microverse git hub repository without any complex coding set up with proper linter of  HTML and CSS which also includes new branch that is created in accordance with the GitHub flow rules in order to make code concise,correct and standardised.
 
 ## 🛠 Built With Visual Studio Code<a name="built-with"></a>
 
