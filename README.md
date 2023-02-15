@@ -189,8 +189,8 @@ Example:
 
 > Describe 1 - 3 features you will add to the project.
 
-- [ ] **[Improving the outlook by implementing the responsive design]**
-- [ ] **[Adding the images and styling them using CSS ]**
+- [ ] **Improving the outlook by implementing the responsive design**
+- [ ] **Adding the images and styling them using CSS**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -219,10 +219,6 @@ Feel free to check the [Detailed Document](https://github.com/microverseinc/curr
 
 >
 I would like to thank microverse team, github team and my coding partners who contributed towards the completion of this task.
-
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
