@@ -176,9 +176,9 @@ Example:
 
 👤 **Harshika Govind**
 
-- GitHub: [@githubhandle](https://github.com/harshi0102)
-- Twitter: [@twitterhandle](https://twitter.com/harshika0102me)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/harshikagovind)
+- GitHub: [@harshi0102](https://github.com/harshi0102)
+- Twitter: [@harshika0102me](https://twitter.com/harshika0102me)
+- LinkedIn: [harshikagovind](https://linkedin.com/in/harshikagovind)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
